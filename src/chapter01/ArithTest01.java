@@ -37,9 +37,9 @@ public class ArithTest01 {
 		System.out.println(a);
 		
 		int h  = 10;
-		System.out.println(h++);
+		System.out.println(h++); //먼저 결과를 낸다음에 그 다음에 일을 더하는거 , 뒤에 붙였다 해서 후위연산자 
 		int e = 10;
-		System.out.println(++e);
+		System.out.println(++e); //앞에 붙였다 해서 전위연산자 
 
 		
 		
